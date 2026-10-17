@@ -1,0 +1,26 @@
+{
+  "n": 1000,
+  "seed": 2026,
+  "variables": [
+    {
+      "name": "Age",
+      "mean": 60,
+      "sd": 12
+    },
+    {
+      "name": "Systolic_BP",
+      "mean": 135,
+      "sd": 18
+    }
+  ],
+  "correlation": [
+    [
+      1,
+      0.35
+    ],
+    [
+      0.35,
+      1
+    ]
+  ]
+}
